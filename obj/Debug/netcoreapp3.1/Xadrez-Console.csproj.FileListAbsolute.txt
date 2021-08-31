@@ -1,0 +1,14 @@
+C:\Users\Ferreira Turles\source\repos\Xadrez-Console\bin\Debug\netcoreapp3.1\Xadrez-Console.exe
+C:\Users\Ferreira Turles\source\repos\Xadrez-Console\bin\Debug\netcoreapp3.1\Xadrez-Console.deps.json
+C:\Users\Ferreira Turles\source\repos\Xadrez-Console\bin\Debug\netcoreapp3.1\Xadrez-Console.runtimeconfig.json
+C:\Users\Ferreira Turles\source\repos\Xadrez-Console\bin\Debug\netcoreapp3.1\Xadrez-Console.runtimeconfig.dev.json
+C:\Users\Ferreira Turles\source\repos\Xadrez-Console\bin\Debug\netcoreapp3.1\Xadrez-Console.dll
+C:\Users\Ferreira Turles\source\repos\Xadrez-Console\bin\Debug\netcoreapp3.1\Xadrez-Console.pdb
+C:\Users\Ferreira Turles\source\repos\Xadrez-Console\obj\Debug\netcoreapp3.1\Xadrez-Console.csproj.AssemblyReference.cache
+C:\Users\Ferreira Turles\source\repos\Xadrez-Console\obj\Debug\netcoreapp3.1\Xadrez-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferreira Turles\source\repos\Xadrez-Console\obj\Debug\netcoreapp3.1\Xadrez-Console.AssemblyInfoInputs.cache
+C:\Users\Ferreira Turles\source\repos\Xadrez-Console\obj\Debug\netcoreapp3.1\Xadrez-Console.AssemblyInfo.cs
+C:\Users\Ferreira Turles\source\repos\Xadrez-Console\obj\Debug\netcoreapp3.1\Xadrez-Console.csproj.CoreCompileInputs.cache
+C:\Users\Ferreira Turles\source\repos\Xadrez-Console\obj\Debug\netcoreapp3.1\Xadrez-Console.dll
+C:\Users\Ferreira Turles\source\repos\Xadrez-Console\obj\Debug\netcoreapp3.1\Xadrez-Console.pdb
+C:\Users\Ferreira Turles\source\repos\Xadrez-Console\obj\Debug\netcoreapp3.1\Xadrez-Console.genruntimeconfig.cache
